@@ -1,0 +1,55 @@
+{
+  "name": "AniVox - Intelligent Personal AI Assistant & Creator Studio",
+  "short_name": "AniVox",
+  "description": "Voice-first intelligent personal AI assistant and YouTube creator studio with fast response, grounded search, phone utilities, and Gmail assistant.",
+  "start_url": "/",
+  "id": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#020617",
+  "theme_color": "#020617",
+  "categories": ["productivity", "utilities", "entertainment"],
+  "icons": [
+    {
+      "src": "/anivox-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/anivox-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/anivox-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Ask Vox",
+      "url": "/?action=ask",
+      "description": "Start voice or text chat with Vox"
+    },
+    {
+      "name": "DCB Universe",
+      "url": "https://youtube.com/@DCBUniverse-n",
+      "description": "Official AniVox & DCB YouTube Channel"
+    },
+    {
+      "name": "Email Assistant",
+      "url": "/?action=email",
+      "description": "Manage Gmail summaries and drafts"
+    },
+    {
+      "name": "Creator Studio",
+      "url": "/?action=creator",
+      "description": "AniVox Creator Studio & Universe Architect"
+    }
+  ]
+}

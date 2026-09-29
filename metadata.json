@@ -1,0 +1,8 @@
+{
+  "name": "Vox - Personal AI Assistant & YouTube Creator Studio",
+  "description": "High-performance voice-first personal AI assistant and YouTube creator studio featuring intelligent routing, instant factual knowledge, deep link launching, dual YouTube channel management, and native Android capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
